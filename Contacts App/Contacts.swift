@@ -7,12 +7,13 @@
 //
 
 import UIKit
+import Contacts
 
 struct Contacts {
     
     let firstName: String
-    let  lastName: String
-    let phonrNumber: String
+    let lastName: String
+    let phoneNumber: String
     
     
 }
